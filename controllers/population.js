@@ -1,4 +1,5 @@
 const { getPopulation, updatePopulation } = require("../services/adminDB");
+const ApiError = require("../utils/utils");
 
 async function getPopulations(req, res) {
   const { state, city } = req.params;

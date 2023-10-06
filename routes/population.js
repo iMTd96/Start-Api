@@ -1,6 +1,5 @@
 const { Router } = require("express");
 const router = Router();
-const ApiError = require("../utils/utils");
 const { getPopulations, putPopulations } = require("../controllers/population");
 
 const { secureAsync } =
