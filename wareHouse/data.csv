@@ -2446,7 +2446,7 @@ Southwest Ranches,Florida,7502
 Dade City,Florida,7393
 Mascotte,Florida,7332
 Neptune Beach,Florida,7088
-"Islamorada, Village of Islands village",Florida,7076
+"Islamorada, Village of Islands village",Florida
 West Miami,Florida,7058
 St. Augustine Beach,Florida,6979
 Belle Isle,Florida,6968
@@ -29086,7 +29086,7 @@ Libertyship,Pennsylvania,1810
 Aleppoship,Pennsylvania,1806
 Upper Fairfieldship,Pennsylvania,1801
 New Milfordship,Pennsylvania,1798
-Data,Pennsylvania,1794
+,Pennsylvania,1794
 Darlingtonship,Pennsylvania,1794
 Lower Frankfordship,Pennsylvania,1782
 Elk Creekship,Pennsylvania,1780
@@ -35916,3 +35916,5 @@ Opal,Wyoming,63
 Riverside,Wyoming,63
 Van Tassell,Wyoming,23
 Lost Springs,Wyoming,4
+habana,cuba,4000
+habanaa,cuba,4000
